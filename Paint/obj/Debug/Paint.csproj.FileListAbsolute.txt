@@ -1,0 +1,8 @@
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\7\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.pdb
